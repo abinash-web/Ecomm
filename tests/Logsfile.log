@@ -1,0 +1,37 @@
+2024-04-01 21:05:54,188 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-04-01 21:05:54,189 :INFO :utility.BaseOne :information statment
+2024-04-01 21:05:54,189 :WARNING :utility.BaseOne :something is in warning mode
+2024-04-01 21:05:54,189 :ERROR :utility.BaseOne :A major error has happend
+2024-04-01 21:05:54,197 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-04-01 21:05:54,197 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-04-01 21:05:54,197 :INFO :utility.BaseOne :information statment
+2024-04-01 21:05:54,197 :INFO :utility.BaseOne :information statment
+2024-04-01 21:05:54,198 :WARNING :utility.BaseOne :something is in warning mode
+2024-04-01 21:05:54,198 :WARNING :utility.BaseOne :something is in warning mode
+2024-04-01 21:05:54,198 :ERROR :utility.BaseOne :A major error has happend
+2024-04-01 21:05:54,198 :ERROR :utility.BaseOne :A major error has happend
+2024-04-01 21:05:55,184 :INFO :utility.BaseOne :iphone X
+2024-04-01 21:05:55,184 :INFO :utility.BaseOne :iphone X
+2024-04-01 21:05:55,220 :INFO :utility.BaseOne :Samsung Note 8
+2024-04-01 21:05:55,220 :INFO :utility.BaseOne :Samsung Note 8
+2024-04-01 21:05:55,273 :INFO :utility.BaseOne :Nokia Edge
+2024-04-01 21:05:55,273 :INFO :utility.BaseOne :Nokia Edge
+2024-04-01 21:05:55,308 :INFO :utility.BaseOne :Blackberry
+2024-04-01 21:05:55,308 :INFO :utility.BaseOne :Blackberry
+2024-04-01 21:05:55,642 :INFO :utility.BaseOne :enter country name as in  Ind
+2024-04-01 21:05:55,642 :INFO :utility.BaseOne :enter country name as in  Ind
+2024-04-01 21:06:01,346 :INFO :utility.BaseOne :text recived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-01 21:06:01,346 :INFO :utility.BaseOne :text recived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-02 21:49:41,661 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-04-02 21:49:41,662 :INFO :utility.BaseOne :information statment
+2024-04-02 21:49:41,662 :WARNING :utility.BaseOne :something is in warning mode
+2024-04-02 21:49:41,662 :ERROR :utility.BaseOne :A major error has happend
+2024-04-02 21:49:42,945 :INFO :utility.BaseOne :iphone X
+2024-04-02 21:49:43,002 :INFO :utility.BaseOne :Samsung Note 8
+2024-04-02 21:49:43,066 :INFO :utility.BaseOne :Nokia Edge
+2024-04-02 21:49:43,126 :INFO :utility.BaseOne :Blackberry
+2024-04-02 21:49:43,606 :INFO :utility.BaseOne :enter country name as in  Ind
+2024-04-02 21:49:49,371 :INFO :utility.BaseOne :text recived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

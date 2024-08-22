@@ -1,0 +1,100 @@
+2024-07-26 00:19:10,471 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:10,472 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:10,472 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:10,472 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:10,476 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:10,476 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:10,476 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:10,476 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:10,477 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:10,477 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:10,477 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:10,477 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:10,477 :INFO :utility.BaseOne :first name isRahul
+2024-07-26 00:19:10,477 :INFO :utility.BaseOne :first name isRahul
+2024-07-26 00:19:11,279 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:11,279 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:11,279 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:11,280 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:11,280 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:11,280 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:11,280 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:11,280 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:11,280 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:11,280 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:11,280 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:11,280 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:11,281 :INFO :utility.BaseOne :first name isAnshika
+2024-07-26 00:19:11,281 :INFO :utility.BaseOne :first name isAnshika
+2024-07-26 00:19:11,281 :INFO :utility.BaseOne :first name isAnshika
+2024-07-26 00:19:16,097 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:16,097 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:16,097 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:16,097 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:16,098 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:16,098 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:16,098 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:16,098 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:16,098 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:16,098 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:16,098 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:16,098 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:16,099 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:16,099 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:16,099 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:16,099 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:16,102 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:16,102 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:16,102 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:16,102 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:16,102 :DEBUG :utility.BaseOne :A debug statment is executed 
+2024-07-26 00:19:16,102 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:16,102 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:16,102 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:16,102 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:16,102 :INFO :utility.BaseOne :information statment
+2024-07-26 00:19:16,103 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:16,103 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:16,103 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:16,103 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:16,103 :WARNING :utility.BaseOne :something is in warning mode
+2024-07-26 00:19:16,103 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:16,103 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:16,103 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:16,103 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:16,103 :ERROR :utility.BaseOne :A major error has happend
+2024-07-26 00:19:16,870 :INFO :utility.BaseOne :iphone X
+2024-07-26 00:19:16,870 :INFO :utility.BaseOne :iphone X
+2024-07-26 00:19:16,870 :INFO :utility.BaseOne :iphone X
+2024-07-26 00:19:16,870 :INFO :utility.BaseOne :iphone X
+2024-07-26 00:19:16,870 :INFO :utility.BaseOne :iphone X
+2024-07-26 00:19:16,913 :INFO :utility.BaseOne :Samsung Note 8
+2024-07-26 00:19:16,913 :INFO :utility.BaseOne :Samsung Note 8
+2024-07-26 00:19:16,913 :INFO :utility.BaseOne :Samsung Note 8
+2024-07-26 00:19:16,913 :INFO :utility.BaseOne :Samsung Note 8
+2024-07-26 00:19:16,913 :INFO :utility.BaseOne :Samsung Note 8
+2024-07-26 00:19:16,966 :INFO :utility.BaseOne :Nokia Edge
+2024-07-26 00:19:16,966 :INFO :utility.BaseOne :Nokia Edge
+2024-07-26 00:19:16,966 :INFO :utility.BaseOne :Nokia Edge
+2024-07-26 00:19:16,966 :INFO :utility.BaseOne :Nokia Edge
+2024-07-26 00:19:16,966 :INFO :utility.BaseOne :Nokia Edge
+2024-07-26 00:19:17,021 :INFO :utility.BaseOne :Blackberry
+2024-07-26 00:19:17,021 :INFO :utility.BaseOne :Blackberry
+2024-07-26 00:19:17,021 :INFO :utility.BaseOne :Blackberry
+2024-07-26 00:19:17,021 :INFO :utility.BaseOne :Blackberry
+2024-07-26 00:19:17,021 :INFO :utility.BaseOne :Blackberry
+2024-07-26 00:19:17,370 :INFO :utility.BaseOne :enter country name as in  Ind
+2024-07-26 00:19:17,370 :INFO :utility.BaseOne :enter country name as in  Ind
+2024-07-26 00:19:17,370 :INFO :utility.BaseOne :enter country name as in  Ind
+2024-07-26 00:19:17,370 :INFO :utility.BaseOne :enter country name as in  Ind
+2024-07-26 00:19:17,370 :INFO :utility.BaseOne :enter country name as in  Ind
+2024-07-26 00:19:23,091 :INFO :utility.BaseOne :text recived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-26 00:19:23,091 :INFO :utility.BaseOne :text recived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-26 00:19:23,091 :INFO :utility.BaseOne :text recived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-26 00:19:23,091 :INFO :utility.BaseOne :text recived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-07-26 00:19:23,091 :INFO :utility.BaseOne :text recived from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
